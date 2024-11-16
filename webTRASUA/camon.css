@@ -1,0 +1,20 @@
+
+#cam-on {
+    text-align: center;
+    padding: 50px;
+    font-size: 1.2em;
+}
+
+#tiep-tuc {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#tiep-tuc a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f08080;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
